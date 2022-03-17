@@ -1,0 +1,4 @@
+print('Proteína por Kg')
+p = float(input('Peso corporal: '))
+r = p * 1.5
+print('A quantidade necessária de proteína estimada será: \n {}' .format(r))
